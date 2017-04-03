@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\split.scale-100.pri"			"resources.pri"
+"D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\PackageLayout\Assets\Square71x71Logo.scale-100.jpg"			"Assets\Square71x71Logo.scale-100.jpg"

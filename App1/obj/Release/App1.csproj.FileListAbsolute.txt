@@ -1,0 +1,52 @@
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\App.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\FirstPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\Multi.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\SecondPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\Single.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\MainPage.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\Tic Tac Toe.xr.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\Tic Tac Toe.exe
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\Tic Tac Toe.pdb
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\resources.pri
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\AppxManifest.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Release\App1.build.appxrecipe
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\App.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\App.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\FirstPlayer.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\FirstPlayer.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Multi.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Multi.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\SecondPlayer.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\SecondPlayer.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Single.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Single.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\MainPage.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\MainPage.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\XamlTypeInfo.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\App.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\FirstPlayer.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Multi.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\SecondPlayer.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Single.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\MainPage.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\App.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\FirstPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Multi.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\SecondPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Single.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\MainPage.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\XamlSaveStateFile.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Tic Tac Toe.exe
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\Tic Tac Toe.pdb
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\priconfig.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\priconfig.xml.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\layout.resfiles
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\layout.resfiles.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\resources.resfiles
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\resources.resfiles.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\pri.resfiles
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\pri.resfiles.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\qualifiers.txt
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\qualifiers.txt.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Release\ProjectArchitectures.txt

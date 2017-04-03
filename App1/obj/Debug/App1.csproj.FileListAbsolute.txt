@@ -1,0 +1,136 @@
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App.xbf
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\MainPage.xbf
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.xr.xml
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.exe
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.pdb
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\resources.pri
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\AppxManifest.xml
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.build.appxrecipe
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.g.i.cs
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.g.cs
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.g.i.cs
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.g.cs
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.xaml
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.xaml
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App.xbf
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MainPage.xbf
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\XamlSaveStateFile.xml
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.exe
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.pdb
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\priconfig.xml
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\priconfig.xml.intermediate
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\layout.resfiles
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\layout.resfiles.intermediate
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\resources.resfiles
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\resources.resfiles.intermediate
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\pri.resfiles
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\pri.resfiles.intermediate
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\qualifiers.txt
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\qualifiers.txt.intermediate
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\student2\documents\visual studio 2013\Projects\App1\App1\obj\Debug\ProjectArchitectures.txt
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\App.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\MainPage.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\resources.pri
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\AppxManifest.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\App.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\App.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\MainPage.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\MainPage.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\App.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\MainPage.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\App.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\MainPage.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\XamlSaveStateFile.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\priconfig.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\priconfig.xml.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\layout.resfiles
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\layout.resfiles.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\resources.resfiles
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\resources.resfiles.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\pri.resfiles
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\pri.resfiles.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\qualifiers.txt
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\qualifiers.txt.intermediate
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\ProjectArchitectures.txt
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\Single.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Single.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Single.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Single.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Single.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\Multi.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Multi.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Multi.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Multi.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Multi.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\FirstPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\FirstPlayer.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\FirstPlayer.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\FirstPlayer.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\FirstPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\SecondPlayer.g.i.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\SecondPlayer.g.cs
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\SecondPlayer.xaml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\SecondPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\SecondPlayer.xbf
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\Tic Tac Toe.xr.xml
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\Tic Tac Toe.exe
+D:\STUDIA\Aplikacje multimedialne\App1\App1\bin\Debug\Tic Tac Toe.pdb
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Tic Tac Toe.exe
+D:\STUDIA\Aplikacje multimedialne\App1\App1\obj\Debug\Tic Tac Toe.pdb
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\App.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\FirstPlayer.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\Multi.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\SecondPlayer.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\Single.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\MainPage.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\Tic Tac Toe.xr.xml
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\Tic Tac Toe.exe
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\Tic Tac Toe.pdb
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\resources.pri
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\AppxManifest.xml
+D:\STUDIA\Aplikacje mobilne\App1\App1\bin\Debug\App1.build.appxrecipe
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\App.g.i.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\App.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\FirstPlayer.g.i.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\FirstPlayer.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Multi.g.i.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Multi.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\SecondPlayer.g.i.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\SecondPlayer.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Single.g.i.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Single.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\MainPage.g.i.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\MainPage.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\XamlTypeInfo.g.cs
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\App.xaml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\FirstPlayer.xaml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\SecondPlayer.xaml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\MainPage.xaml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\App.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\FirstPlayer.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\SecondPlayer.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\MainPage.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\XamlSaveStateFile.xml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Multi.xaml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Single.xaml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Multi.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Single.xbf
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Tic Tac Toe.exe
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\Tic Tac Toe.pdb
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\priconfig.xml
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\priconfig.xml.intermediate
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\layout.resfiles
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\layout.resfiles.intermediate
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\resources.resfiles
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\resources.resfiles.intermediate
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\pri.resfiles
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\pri.resfiles.intermediate
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\qualifiers.txt
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\qualifiers.txt.intermediate
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIA\Aplikacje mobilne\App1\App1\obj\Debug\ProjectArchitectures.txt

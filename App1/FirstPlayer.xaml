@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="App1.FirstPlayer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Black">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btnNazwa" Grid.Row="0" IsHitTestVisible="False" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" Background="" FontSize="20" Foreground="LightGreen" FontFamily="Snap ITC" FontStyle="Italic" Grid.ColumnSpan="3" BorderThickness="0" Margin="56,0,59,-7" Width="285"/>
+        <Button x:Name="btnPodajNazweTekst" IsHitTestVisible="False" Grid.ColumnSpan="3" Content="Enter name of player X" HorizontalAlignment="Left" Margin="55,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="294" Height="150" FontWeight="Bold" Background="" FontSize="20" Foreground="LightGreen" FontFamily="Snap ITC" BorderThickness="0" FontStyle="Italic"/>
+        <TextBox x:Name="txtNazwaX" Background="LightBlue" Foreground="Green" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Snap ITC" FontStyle="Italic"  HorizontalAlignment="Left" Margin="65,19.333,0,0" Grid.Row="2" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.ColumnSpan="3" Height="101" Width="257" KeyDown="txtNazwaX_KeyDown"/>
+        <Button x:Name="btnZatwierdz" BorderThickness="0" Content="Confirm" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2" Grid.Column="1" Margin="79.667,-9.333,0,0" Grid.Row="3" Background="" FontSize="20" Foreground="LightGreen" FontFamily="Snap ITC" Click="btnZatwierdz_Click"/>
+        <Button x:Name="buttonExit" Content="Menu" BorderThickness="0" Grid.Column="2" HorizontalAlignment="Left" Background="" FontSize="20" Foreground="LightGreen" FontFamily="Snap ITC" Margin="14.333,86.667,0,0" Grid.Row="3" VerticalAlignment="Top" Width="10" Height="10" Click="buttonExit_Click"/>
+        <Button x:Name="btnUsun" Content="Delete" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2" Margin="42,-9.333,0,0" Grid.Row="3" Background="" FontSize="20" Foreground="LightGreen" FontFamily="Snap ITC" Click="btnUsun_Click"/>
+
+    </Grid>
+</Page>
